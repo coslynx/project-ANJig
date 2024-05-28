@@ -1,0 +1,5 @@
+# giveaway_bot/requirements.txt
+
+discord.py
+discord-py-slash-command
+Pillow
